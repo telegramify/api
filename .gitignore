@@ -1,23 +1,2 @@
-# Rust
-/target/
-**/*.rs.bk
-
-# Environment
+/target
 .env
-
-# Uploads
-/uploads/*
-!/uploads/.gitkeep
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
